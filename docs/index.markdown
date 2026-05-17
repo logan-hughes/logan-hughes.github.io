@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Projects
 ---
+
+## Projects
+
+- [Urban Transport & General Equilibria](/projects/econpaper) — Independent study paper on Canadian commuter transportation modal split optimization
