@@ -1,19 +1,16 @@
 ---
 layout: page
-title: "econ paper"
+title: "Urban Transport & General Equilibrium"
 permalink: /projects/econpaper
 ---
-This paper was developed for an independent study course in my undergraduate degree. 
-It evaluates whether economists interested in optimizing modal split for Canadian urban transportation should consider general equilibrium approaches.
 
+This paper was developed for an independent study course. It evaluates whether economists optimizing modal split for Canadian urban transportation should consider general equilibrium approaches.
 
-<p>You can view the full paper below. If it doesn't load,
-<a href="{{ site.baseurl }}/assets/urbantransport_GE_models_canada.pdf">click here to download the PDF.</a></p>
+<a href="/assets/urbantransport_GE_models_canada.pdf" download class="download-btn">⬇ Download PDF</a>
 
-<iframe 
-  src="{{ site.baseurl }}/assets/urbantransport_GE_models_canada.pdf" 
-  width="100%" 
-  height="800px" 
+<iframe
+  src="/assets/urbantransport_GE_models_canada.pdf"
+  width="100%"
+  height="800px"
   style="border: none;">
 </iframe>
-
