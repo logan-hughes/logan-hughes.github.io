@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Life Satisfaction and Relationship Status Data Analysis"
-permalink: /projects/lifesatisfaction
+permalink: /projects/healthdata
 ---
 
 <a href="/assets/healthdata.html" target="_blank">⬇ Open / Download</a>
