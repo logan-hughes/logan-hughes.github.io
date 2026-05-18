@@ -4,3 +4,5 @@ description: Economics student
 baseurl: ""
 url: "https://logan-hughes.github.io"
 theme: minima
+header_pages:
+  - index.markdown
