@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-## Economics Papers
+## Economics
 
 - [Urban Transport and General Equilibria](/projects/econpaper) — Made for an independent study course during my bachelor's degree at UNBSJ. A literature review on models for urban transportation externalities and how they can help optimize modal split in Canada.
 
