@@ -4,7 +4,7 @@ title: "Life Satisfaction and Relationship Status Data Analysis"
 permalink: /projects/healthdata
 ---
 
-This paper was developed for a course on health data analytics. It was co-created with two health students (cited in the file), who provided the health literature context and helped develop the research question while I handled all of the coding and data analysis in R. The html file was created using Quarto. You may need to refresh the page after clicking the link for the file to load.
+This paper was developed for a course in health data analytics during my bachelor's degree at UNB Saint John. It was co-created with two health students (cited in the file), who provided the health literature context while I handled the coding in R. Development of the research question, writing of the report, and performing the data analysis was all done collaboratively. Generative AI was used in debugging code when errors were present, and sections of the code were adapted from samples provided in the course lessons. Survey data used in this analysis came from the Behavioral Risk Factor Surveillance System, more information on the dataset is included in the analysis. The html file was created using Quarto. You may need to refresh the page after clicking the link for the file to load correctly.
 
 <a href="/assets/healthdata.html" target="_blank">⬇ Open / Download</a>
 
